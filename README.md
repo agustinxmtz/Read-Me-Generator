@@ -17,14 +17,11 @@
   * See video: https://drive.google.com/file/d/1PYg2Ae3-smLaRal6jV_yW38NpltJD4Wu/view
   
   ## Usage
-  * 
+  * Navigate to the root of readme-generator in command line. (ex. 'cd readme-generator-main')
+  * Type 'node index.js' into command line and answer prompts.
   
   ## License
   MIT: https://opensource.org/licenses/MIT
-  
-  
-  ## Tests
-  Navigate to the root of readme-generator in command line. (ex. 'cd readme-generator-main')
   
   ## Questions
   If you have questions, feel free to contact me here:
